@@ -27,7 +27,7 @@ const Message = (props: MessagePropsType) => {
                 </div>
             </div>
             <div id={'hw1-time-' + props.message.id} className={s.time}>
-                <span>{props.message.message.time}</span>
+                {props.message.message.time}
             </div>
         </div>
     )
