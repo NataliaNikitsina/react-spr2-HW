@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NataliaNikitsina/react-spr2-HW/static/css/main.a1ff5c78.css",
+    "main.js": "/NataliaNikitsina/react-spr2-HW/static/js/main.1188897b.js",
+    "static/js/357.56fd6074.chunk.js": "/NataliaNikitsina/react-spr2-HW/static/js/357.56fd6074.chunk.js",
+    "static/media/avatar.png": "/NataliaNikitsina/react-spr2-HW/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/NataliaNikitsina/react-spr2-HW/index.html",
+    "main.a1ff5c78.css.map": "/NataliaNikitsina/react-spr2-HW/static/css/main.a1ff5c78.css.map",
+    "main.1188897b.js.map": "/NataliaNikitsina/react-spr2-HW/static/js/main.1188897b.js.map",
+    "357.56fd6074.chunk.js.map": "/NataliaNikitsina/react-spr2-HW/static/js/357.56fd6074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1ff5c78.css",
+    "static/js/main.1188897b.js"
+  ]
+}
