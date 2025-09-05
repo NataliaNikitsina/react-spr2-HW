@@ -45,6 +45,7 @@
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 16px;
+    text-wrap: balance;
     color: #fff;
     padding: 5px 25px 8px 13px
 }
