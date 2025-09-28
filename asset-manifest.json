@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-spr2-HW/static/css/main.8584d27b.css",
-    "main.js": "/react-spr2-HW/static/js/main.cd14a10f.js",
+    "main.js": "/react-spr2-HW/static/js/main.da467c4a.js",
     "static/js/386.89944730.chunk.js": "/react-spr2-HW/static/js/386.89944730.chunk.js",
     "static/media/avatar.png": "/react-spr2-HW/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/react-spr2-HW/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -12,11 +12,11 @@
     "static/media/message.svg": "/react-spr2-HW/static/media/message.f06652d7a5ead8e4aad0.svg",
     "static/media/burger.svg": "/react-spr2-HW/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.8584d27b.css.map": "/react-spr2-HW/static/css/main.8584d27b.css.map",
-    "main.cd14a10f.js.map": "/react-spr2-HW/static/js/main.cd14a10f.js.map",
+    "main.da467c4a.js.map": "/react-spr2-HW/static/js/main.da467c4a.js.map",
     "386.89944730.chunk.js.map": "/react-spr2-HW/static/js/386.89944730.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8584d27b.css",
-    "static/js/main.cd14a10f.js"
+    "static/js/main.da467c4a.js"
   ]
 }
