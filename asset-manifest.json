@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-spr2-HW/static/css/main.d1ee4f09.css",
-    "main.js": "/react-spr2-HW/static/js/main.2a18a53c.js",
+    "main.css": "/react-spr2-HW/static/css/main.8f1f182f.css",
+    "main.js": "/react-spr2-HW/static/js/main.e68fbf9a.js",
     "static/js/386.89944730.chunk.js": "/react-spr2-HW/static/js/386.89944730.chunk.js",
     "static/media/avatar.png": "/react-spr2-HW/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/react-spr2-HW/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
-    "static/media/Loading.svg": "/react-spr2-HW/static/media/Loading.9f863650aea559846ea7.svg",
+    "static/media/Loading.svg": "/react-spr2-HW/static/media/Loading.3f2fdf152d01f05f1419.svg",
     "static/media/closeOutline.svg": "/react-spr2-HW/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
     "static/media/editIcon.svg": "/react-spr2-HW/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
     "index.html": "/react-spr2-HW/index.html",
     "static/media/checked.svg": "/react-spr2-HW/static/media/checked.b75ca55e8759862b4083.svg",
     "static/media/message.svg": "/react-spr2-HW/static/media/message.f06652d7a5ead8e4aad0.svg",
     "static/media/burger.svg": "/react-spr2-HW/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.d1ee4f09.css.map": "/react-spr2-HW/static/css/main.d1ee4f09.css.map",
-    "main.2a18a53c.js.map": "/react-spr2-HW/static/js/main.2a18a53c.js.map",
+    "main.8f1f182f.css.map": "/react-spr2-HW/static/css/main.8f1f182f.css.map",
+    "main.e68fbf9a.js.map": "/react-spr2-HW/static/js/main.e68fbf9a.js.map",
     "386.89944730.chunk.js.map": "/react-spr2-HW/static/js/386.89944730.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1ee4f09.css",
-    "static/js/main.2a18a53c.js"
+    "static/css/main.8f1f182f.css",
+    "static/js/main.e68fbf9a.js"
   ]
 }
