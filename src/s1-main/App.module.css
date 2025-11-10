@@ -3,9 +3,18 @@
 }
 
 .hw {
-
+    font-weight: 400;
+    font-size: 14px;
+    color: #000;
 }
 
 .hwTitle {
-
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    color: #000;
+    padding: 40px 0 10px 70px;
+    border-bottom: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    margin: 30px 0
 }
