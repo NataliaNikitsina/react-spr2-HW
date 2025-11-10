@@ -3,6 +3,7 @@ import s from './HW11.module.css'
 import s2 from '../../s1-main/App.module.css'
 import { restoreState } from '../hw06/localStorage/localStorage'
 import SuperRange from './common/c7-SuperRange/SuperRange'
+import ellipse from './common/c7-SuperRange/Ellipse 10.svg'
 
 /*
 * 1 - передать значения в оба слайдера
@@ -37,6 +38,23 @@ function HW11() {
                             id={'hw11-single-slider'}
                             value={value1}
                             onChange={(e)=>change(e,value1)}
+                            className={s.slider}
+                            sx={{
+                                color: '#0c2',
+                                height: 4,
+                                width: 147,
+                                '& .MuiSlider-track': {
+                                    background: '#0c2',
+                                },
+                                '& .MuiSlider-thumb': {
+                                    height: 18,
+                                    width: 18,
+                                    backgroundImage: ellipse,
+                                },
+                                '& .MuiSlider-rail':{
+                                    background: '#8b8b8b',
+                                }
+                            }}
                             // сделать так чтоб value1 изменялось // пишет студент
 
                         />
@@ -47,6 +65,22 @@ function HW11() {
                             id={'hw11-double-slider'}
                             value={[value1, value2]}
                             onChange={(e)=>change(e, [value1, value2])}
+                            className={s.slider}
+                            sx={{
+                                color: '#0c2',
+                                height: 4,
+                                width: 147,
+                                '& .MuiSlider-track': {
+                                    background: '#0c2',
+                                },
+                                '& .MuiSlider-thumb': {
+                                    height: 18,
+                                    width: 18,
+                                },
+                                '& .MuiSlider-rail':{
+                                    background: '#8b8b8b',
+                                }
+                            }}
                             // сделать так чтоб value1/2 изменялось // пишет студент
 
                         />
