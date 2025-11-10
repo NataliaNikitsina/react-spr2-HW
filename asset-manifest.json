@@ -1,9 +1,13 @@
 {
   "files": {
     "main.css": "/react-spr2-HW/static/css/main.c332f0b5.css",
-    "main.js": "/react-spr2-HW/static/js/main.b69542c9.js",
-    "static/js/386.89944730.chunk.js": "/react-spr2-HW/static/js/386.89944730.chunk.js",
+    "main.js": "/react-spr2-HW/static/js/main.b136661a.js",
+    "static/js/386.1131c591.chunk.js": "/react-spr2-HW/static/js/386.1131c591.chunk.js",
     "static/media/avatar.png": "/react-spr2-HW/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/200.svg": "/react-spr2-HW/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
+    "static/media/error.svg": "/react-spr2-HW/static/media/error.5a3135f381b00b53044eff200e725391.svg",
+    "static/media/500.svg": "/react-spr2-HW/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
+    "static/media/400.svg": "/react-spr2-HW/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
     "static/media/404.svg": "/react-spr2-HW/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
     "static/media/Loading.svg": "/react-spr2-HW/static/media/Loading.3f2fdf152d01f05f1419.svg",
     "static/media/closeOutline.svg": "/react-spr2-HW/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
@@ -13,11 +17,11 @@
     "static/media/message.svg": "/react-spr2-HW/static/media/message.f06652d7a5ead8e4aad0.svg",
     "static/media/burger.svg": "/react-spr2-HW/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.c332f0b5.css.map": "/react-spr2-HW/static/css/main.c332f0b5.css.map",
-    "main.b69542c9.js.map": "/react-spr2-HW/static/js/main.b69542c9.js.map",
-    "386.89944730.chunk.js.map": "/react-spr2-HW/static/js/386.89944730.chunk.js.map"
+    "main.b136661a.js.map": "/react-spr2-HW/static/js/main.b136661a.js.map",
+    "386.1131c591.chunk.js.map": "/react-spr2-HW/static/js/386.1131c591.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c332f0b5.css",
-    "static/js/main.b69542c9.js"
+    "static/js/main.b136661a.js"
   ]
 }
