@@ -1,7 +1,27 @@
 .buttonsContainer {
+    display: flex;
+    gap: 24px;
+}
+
+.buttonsContainer button {
+    border: 1px solid #06c;
+    background: none;
+    border-radius: 3px;
+    padding: 5px 24px;
+    min-height: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #06c;
 }
 
 .responseContainer {
+    display: flex;
+    gap: 87px;
+    margin: 88px auto 0;
+    max-width: 1050px;
+    width: 100%;
 }
 
 .imageContainer {
@@ -10,13 +30,22 @@
 .image {
 }
 
-.textContainer{
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000;
 }
 
 .code {
+    font-size: 30px;
 }
 
 .text {
+    margin-top: 15px;
 }
+
 .info {
 }
